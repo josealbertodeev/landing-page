@@ -7,9 +7,8 @@ Acesse o projeto aqui: [link](https://josealbertodeev.github.io/landing-page/)
 ## ✨Tecnologias Utilizadas
 * HTML
 * CSS
-
-## 📷 Previem
-💻 Versão Web
+  
+## 💻 Versão Web
 ![Animação1](https://github.com/user-attachments/assets/683e3395-32af-4c9d-af72-fa09e50ad2a0)
 
 ## 📱 Versão Mobile
