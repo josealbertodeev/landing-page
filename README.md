@@ -1,9 +1,6 @@
 # 📌 Huddle Landing Page Responsiva
 Este é um projeto do Frontend Mentor Huddle landing page with a single introductory section, desenvolvido com HTML e CSS. 
 
-## 🚀 Demonstração
-Acesse o projeto aqui: [link](https://josealbertodeev.github.io/landing-page/)
-
 ## ✨Tecnologias Utilizadas
 * HTML
 * CSS
